@@ -1,3 +1,7 @@
-Senior Engineering Architect at [SDG](https://sdg.la), a Shopify Platinum Partner since 2006. Most of what I ship lives in private client repos, so the activity above reflects a slice of ongoing work, not the whole picture.
+# Hi, I'm Kyle 👋
 
-More at [kylbutlr.com](https://kylbutlr.com).
+I'm a **Senior Engineering Architect** based in Los Angeles, focused on frontend engineering, systems architecture, and technical leadership.
+
+I build scalable commerce experiences with **React, TypeScript, Shopify, Hydrogen, APIs, and modern web technologies**.
+
+[**Portfolio**](https://kylbutlr.com) · [**LinkedIn**](https://www.linkedin.com/in/kylbutlr/)
